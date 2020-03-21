@@ -1,0 +1,9 @@
+body {
+  background-color: #141414;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+  background-color: #333333;
+}
